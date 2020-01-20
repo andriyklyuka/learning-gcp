@@ -1,0 +1,125 @@
+-----Section 11: Security
+	35. What is Security? (Data Flow)
+	36. IAM Breakdown: Resource Hierarchy (To which thing?)
+	37. IAM Breakdown: Permissions and Roles (Can do what?)
+	38. IAM Breakdown: Members and Groups (Who?)
+	39. IAM Breakdown: Policies (Bindings)
+	40. IAM Breakdown: Wrap-Up
+	41. Billing Access Control
+	42. Milestone: Secure All The Things!
+-----Section 12: Networking
+	43. Routing: Overview
+	44. Routing: To Google's Network (Premium Routing Tier)
+	45. Routing: To the Right Resource (Load Balancing)
+	46. Routing: Among Resources (VPC)
+	47. Creating Auto-Mode VPCs (Lab)
+	48. Custom-Mode VPCs (Lab) - Part 1: Creating the VPC
+	49. Custom-Mode VPCs (Lab) - Part 2: Creating the Custom
+	IAM Role & Service Account
+	50. Custom-Mode VPCs (Lab) - Part 3: Using the VPC and
+	Configuring Firewall Rules
+	51. Custom-Mode VPCs: Challenge Lab
+	52. Custom-Mode VPCs: Challenge Lab Solution - Main Setup
+	53. Custom-Mode VPCs: Challenge Lab Solution - Firewall
+	Rules
+	54. Networking Exam Tips
+-----Section 13: GKE Introduction: Google Kubernetes
+	Engine
+	55. GKE: Everything You Need
+	56. Kubernetes Deep Dive Intro
+-----Section 14: Kubernetes Course Introduction
+	57. What You Need
+	58. Schedule
+-----Section 15: Kubernetes Big Picture
+	59. Kubernetes Big Picture
+	60. Kubernetes Primer
+	61. The Kubernetes API
+	62. Kubernetes Objects
+	63. Spin Up a Quick Cluster
+-----Section 16: Kubernetes Application Architecture
+	64. Kubernetes App Architecture
+	65. Theory
+	66. Sample Kubernetes App
+	67. Recap
+-----Section 17: Kubernetes Networking
+	68. Networking
+	69. Common Networking Requirements
+	70. Sample App Requirements
+	71. Kubernetes Networking Basics
+	72. Service Basics
+	73. Service Types
+	74. Service Network
+	75. Demo
+	76. Recap
+-----Section 18: Kubernetes Storage
+	77. Storage
+	78. Big Picture
+	79. Container Storage Interface
+	80. PV and PVC
+	81. Storage Classes
+	82. Demo
+	83. Recap
+-----Section 19: From Code to Kubernetes
+	84. Code to Kubernetes
+	85. Big Picture
+	86. Demo
+	87. Recap
+-----Section 20: Kubernetes Deployments
+	88. Kubernetes Deployments
+	89. Deployment Theory
+	90. Deployments in Action
+	91. Recap
+-----Section 21: Kubernetes Auto-scaling Apps
+	92. Scaling Applications
+	93. Big Picture
+	94. HPA Theory
+	95. HPA Demo
+	96. Cluster Autoscaler Theory
+	97. Cluster Autoscaler Demo
+	98. Recap
+-----Section 22: Kubernetes Security
+	99. RBAC and Admission Control
+	100. Big Picture
+	101. Authentication
+	102. Authorization
+	103. Admission Control
+	104. Demo
+	105. Recap
+-----Section 23: More Kubernetes Stuff
+	106. Other Kubernetes Stuff
+-----Section 24: Kubernetes and GKE Wrap-up
+	107. Welcome Back
+-----Section 25: GAE: Google App Engine
+	108. App Engine - Lab Challenge
+-----Section 26: Services Breadth
+	109. Changing Gears To Breadth
+	110. Compute
+	111. Storage
+	112. Databases
+	113. Data Transfer
+	114. External Networking
+	115. Internal Networking
+	116. Machine Learning / AI
+	117. Big Data and IoT
+	118. Identity and Access - Core Security
+	119. Security Management - Monitoring and Response
+	120. Encryption Key Management
+	121. Operations and Management
+	122. Development and APIs
+-----Section 27: System of Services
+	123. Putting It All Together
+-----Section 28: Wrapping Up
+	124. Milestone: Almost There?
+-----Section 29: Exam Preparation
+	125. Logistics
+	126. Final Prep
+	127. Milestone: Soaring
+	128. Thank You and Good Luck
+-----Section 30: Practice Test 1
+	Practice Test 1: Practice Test 1
+-----Section 31: Practice Test 2
+	Practice Test 2: Practice Test 2
+-----Section 32: But Wait, There's More!
+	129. Beyond ACE
+	130. Bonus Lecture
+	
