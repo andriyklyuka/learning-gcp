@@ -1,12 +1,3 @@
------Section 11: Security
-	35. What is Security? (Data Flow)
-	36. IAM Breakdown: Resource Hierarchy (To which thing?)
-	37. IAM Breakdown: Permissions and Roles (Can do what?)
-	38. IAM Breakdown: Members and Groups (Who?)
-	39. IAM Breakdown: Policies (Bindings)
-	40. IAM Breakdown: Wrap-Up
-	41. Billing Access Control
-	42. Milestone: Secure All The Things!
 -----Section 12: Networking
 	43. Routing: Overview
 	44. Routing: To Google's Network (Premium Routing Tier)
